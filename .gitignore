@@ -5,3 +5,4 @@
 /.vs/Sysbrokeragem-files/v17
 *.vsidx
 *.sqlite
+*.json
